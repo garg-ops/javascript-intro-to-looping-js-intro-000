@@ -1,4 +1,4 @@
-let array = []
+
 
 function forLoop(array) {
 
